@@ -45,6 +45,7 @@ nav ul li a{
     color: white;
     font-weight: 700px;
     text-transform: uppercase;
+    
 }
 .navbtn:hover{
     background: white;
@@ -69,12 +70,24 @@ nav ul li a{
     font-size: 22px;
     width: 70%;
 }
+.aboutme a{
+    position: absolute;
+    top: 200px;
+    width: 180px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    color: orange;
+    text-align: center;
+    
+}
 .image{
     position: absolute;
-    top: 20%;
+    top: 22%;
     left: 68%;
 }
 .image img{
     border-radius: 80px;
 }
+
 
